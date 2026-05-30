@@ -1,0 +1,6 @@
+{
+  "name": "Lead Sales Insights & Corrective Action System",
+  "description": "An interactive dashboard that parses agent call logs and uses Gemini AI to diagnose calling bottlenecks, agent performance, lead quality issues, and generate corrective action plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
